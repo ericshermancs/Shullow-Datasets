@@ -10,7 +10,7 @@
       "description": "Metro-North and LIRR commuter railroad stations across NY and CT with official MTA branding.",
       "category": "Transit",
       "author": "MTA / data.ny.gov",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/mta-stations.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/mta-stations.json",
       "format": "json",
       "poiCount": 238,
       "colors": {
@@ -35,7 +35,7 @@
       "description": "Comprehensive database of orthodox synagogues, daily minyanim, and batei midrash with official logo icon.",
       "category": "Religious",
       "author": "GoDaven / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/godaven.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/godaven.json",
       "format": "json",
       "poiCount": 4705,
       "colors": {
@@ -58,7 +58,7 @@
       "description": "Orthodox Union member synagogues and community congregations with official OU logo.",
       "category": "Religious",
       "author": "Orthodox Union / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/ou-shuls.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/ou-shuls.json",
       "format": "json",
       "poiCount": 1853,
       "colors": {
@@ -80,7 +80,7 @@
       "description": "Chabad houses and community outreach centers across North America and worldwide with custom logo.",
       "category": "Religious",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-houses.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-houses.json",
       "format": "json",
       "poiCount": 2337,
       "colors": {
@@ -102,7 +102,7 @@
       "description": "National Council of Young Israel branches and affiliated community congregations with custom logo.",
       "category": "Religious",
       "author": "National Council of Young Israel",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/young-israel.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/young-israel.json",
       "format": "json",
       "poiCount": 114,
       "colors": {
@@ -123,7 +123,7 @@
       "description": "Dedicated Chabad community synagogues and permanent prayer halls.",
       "category": "Religious",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-synagogues.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-synagogues.json",
       "format": "json",
       "poiCount": 295,
       "colors": {
@@ -143,7 +143,7 @@
       "description": "Community centers offering cultural programming, family events, and social services.",
       "category": "Community",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-community-centers.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-community-centers.json",
       "format": "json",
       "poiCount": 253,
       "colors": {
@@ -164,7 +164,7 @@
       "description": "Chabad student centers serving colleges and universities across North America.",
       "category": "Education",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-campus.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-campus.json",
       "format": "json",
       "poiCount": 244,
       "colors": {
@@ -185,7 +185,7 @@
       "description": "Elementary, middle, and high school Jewish day schools and yeshivot.",
       "category": "Education",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-day-schools.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-day-schools.json",
       "format": "json",
       "poiCount": 154,
       "colors": {
@@ -206,7 +206,7 @@
       "description": "Early childhood centers, nursery schools, and preschools.",
       "category": "Education",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-preschools.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-preschools.json",
       "format": "json",
       "poiCount": 150,
       "colors": {
@@ -227,7 +227,7 @@
       "description": "Community ritual bath facilities with contact details.",
       "category": "Community",
       "author": "Chabad.org / Shullow Spiders",
-      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/main/chabad-mikvaot.json",
+      "url": "https://raw.githubusercontent.com/ericshermancs/Shullow-Datasets/master/chabad-mikvaot.json",
       "format": "json",
       "poiCount": 88,
       "colors": {
